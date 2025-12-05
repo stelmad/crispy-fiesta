@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Voting Service
+
+logging:
+  level:
+    root: INFO
+    dev.stelmad: INFO
